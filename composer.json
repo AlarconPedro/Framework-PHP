@@ -1,0 +1,11 @@
+{
+    "name": "alfa/prova",
+    "autoload": {
+        "psr-4": {
+            "Alfa\\Prova\\": "src/"
+        }
+    },
+    "require": {
+        "slim/slim": "^4.8"
+    }
+}
